@@ -11,4 +11,3 @@ Neeche diye gaye link par click karke direct Setup `.exe` download karein:
 #### 💻 One-Click Command Prompt (CMD) Install:
 ```cmd
 curl -L -o "%TEMP%\EduChip-Setup.exe" https://github.com/2025pietcdmayank034-crypto/Educhip-AI/releases/download/v1.0.0-beta/EduChip.AI.Setup.1.0.0-beta.exe && start "" "%TEMP%\EduChip-Setup.exe"
-```
